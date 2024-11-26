@@ -9,6 +9,9 @@ This project demonstrates how to integrate Google Cloud BigQuery and Gemini usin
 - BigQuery Integration: Query crop yield data stored in BigQuery.
 - Generative AI: Use the Gemini model to analyze data and predict the best time to grow crops.
 
+## Architecture
+![architecture](./architecture.png)
+
 ## Prerequisites
 1. Node.js: Ensure you have NodeJS installed (v18+ recommended).
 2. Google Cloud Project:
