@@ -1,4 +1,4 @@
-# Predict the Best Time to Grow Crops Using Google Cloud Vertex AI and BigQuery
+# Cropredict: Predict the Best Time to Grow Crops Using Google Cloud Vertex AI and BigQuery
 
 Want to learn how to leverage Google Cloud’s powerful BigQuery, Gemini and Vertex AI to make smarter agricultural decisions? In this blog, I’ll guide you through building an AI-driven solution that predicts the best time to grow crops using historical crop yield data.
 
