@@ -89,3 +89,7 @@ The dataset is sourced from [Kaggle - Crop Yield in Indian States Dataset](https
 ## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+## About Me
+
+Visit my portfolio website [fazal.me](https://fazal.me) for more about my work, blog, projects.
